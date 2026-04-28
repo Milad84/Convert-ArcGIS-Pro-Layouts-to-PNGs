@@ -30,3 +30,4 @@ The script automates the following workflow:
     * It turns "Day" layers ON and "Night" layers OFF, then exports `[BookmarkName]_Daytime.png`.
     * It turns "Day" layers OFF and "Night" layers ON, then exports `[BookmarkName]_Overnight.png`.
 5.  **Performance:** It includes a 0.7-second pause (`time.sleep`) between visibility changes and exports to ensure the ArcGIS Pro engine has finished rendering before the file is saved.
+<img width="311" height="665" alt="image" src="https://github.com/user-attachments/assets/5e37a08e-a3e8-483a-b6d9-ed872aca362a" />
